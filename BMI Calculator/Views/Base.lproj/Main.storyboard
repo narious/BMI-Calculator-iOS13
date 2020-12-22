@@ -210,6 +210,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="C6A-Ti-ghI"/>
                     <connections>
+                        <outlet property="background" destination="r83-N3-Ash" id="CAI-HK-Wiq"/>
                         <outlet property="commentLabel" destination="9IV-CT-mxw" id="J3U-Wt-toH"/>
                         <outlet property="resultLabel" destination="VU9-2W-Sd5" id="aFh-TF-d6K"/>
                     </connections>
